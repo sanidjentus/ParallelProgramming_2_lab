@@ -5,7 +5,7 @@
 
 const size_t ARRAY_SIZE = 100; //размер массива
 const size_t THREADS = 4; //кол-во потоков
-const int MAX_VALUE = 101; //максимальное значение из элементов массива, т.к. rand() задаем в пределах 100
+//const int MAX_VALUE = 101; //максимальное значение из элементов массива, т.к. rand() задаем в пределах 100
 
 using namespace std;
 
